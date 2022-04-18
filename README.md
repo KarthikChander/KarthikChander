@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarthikChander
-- 👀 I’m interested in ... Manga and League of legends
+- 👀 I’m interested in ... Drawing manga and League of legends
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
